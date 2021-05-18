@@ -15,3 +15,9 @@
 | !reset | Resets 4C mode and Admin mode | !reset |
 | !clearbans | Clear bans | !clearbans |
 | !swap | Swap teams (blue to red, red to blue) | !swap |
+| **Higher-Admin Features** |
+| \i | Send message in italics | \i hello |
+| \b | Send message in bold | \b bye |
+| \s | Send message in small font size | \s smol |
+| \sb | Send message in small-bold | \sb smol but bold |
+| \si | Send message in small-italics | \si smol but tilted |
