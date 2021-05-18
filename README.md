@@ -12,7 +12,7 @@
 | !afk #id | When admins input an additional player id, the player will the corresponding id will be added to/removed from the AFK list | !afk #3 |
 | !4c | Activates/Deactivates 4 Corner Mode | !4c |
 | !rondo | Activates/Deactivates Rondo Mode | !rondo |
-| !adminmode | Activates/Deactivates Admin mode, all incoming players will be made admin (usually only for internal sessions) | `!adminmode` |
+| !adminmode | Activates/Deactivates Admin mode, all incoming players will be made admin (usually only for internal sessions) | !adminmode |
 | !reset | Resets 4C mode and Admin mode | !reset |
 | !clearbans | Clear bans | !clearbans |
 | !swap | Swap teams (blue to red, red to blue) | !swap |
